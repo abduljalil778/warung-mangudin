@@ -173,6 +173,18 @@ body {
     padding: 0 1rem;
 }
 
+.about .row .content h3 {
+  font-size: 1.8rem;
+  margin-bottom: 1rem;
+}
+
+.about .row .content p {
+  font-size: 1.4rem;
+  margin-bottom: 0.8rem;
+  font-weight: 100;
+  line-height: 1.6;
+}
+
 /* Media Queries */
 
 /* Laptop */
